@@ -1,28 +1,25 @@
-# ⚡ Tufo
+<h1 align="center">Hi 👋, I'm Tufo</h1>
+<h3 align="center">A passionate frontend web developer</h3>
 
-Hi, my name is Tufo. 
-I am a web developer who is fairly new at this. I do my best to create fun
-websites and web apps while still learning. I also make youtube videos documenting my journey.
-If you want to check out my work and some of the videos feel free to check out my youtube channel<a style="text-decoration:none;" href="https://www.youtube.com/channel/UCcvan4b4UrAXDT3mPv5hbuw"> "Tufo"</a>. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tufot&label=Profile%20views&color=0e75b6&style=flat" alt="tufot" /> </p>
 
+- 🔭 I’m currently working on **Tezza, A web page for a coffee bar**
+
+- 🌱 I’m currently learning **React JS**
+
+- 📫 How to reach me **tufoinfo@gmail.com**
+
+- ⚡ Fun fact **I can solve a rubik's cube in 20 seconds**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-      <a href="https://www.youtube.com/channel/UCcvan4b4UrAXDT3mPv5hbuw?sub_confirmation=1">
-         <img alt="Subscribe" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCcvan4b4UrAXDT3mPv5hbuw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://github.com/TufoT?tab=followers">
-         <img alt="Follow" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TufoT?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   </p>
+<a href="https://stackoverflow.com/users/tufot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tufot" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/tufo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tufo" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### 📖 Languages I use
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tufot&show_icons=true&locale=en&layout=compact" alt="tufot" /></p>
 
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-<img align="left" alt="CSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">    
-<img align="left" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
-<br />  
-   
-#         
-
-### 📈 Stats
-
-![Tufo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TufoT&show_icons=true&theme=highcontrast)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tufot&show_icons=true&locale=en" alt="tufot" /></p>
