@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tufot&label=Profile%20views&color=0e75b6&style=flat" alt="tufot" /> </p>
 
-- 🔭 I’m currently working on **Tezza, A web page for a coffee bar**
+- 🔭 I’m currently working on **Pixel Draw**
 
 - 🌱 I’m currently learning **React JS**
 
